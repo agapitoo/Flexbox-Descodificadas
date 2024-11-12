@@ -1,7 +1,7 @@
 # Treinando FlexBox
 
 Um projeto de interface utilizando flexbox com HTML, CSS.
-
+![flexbox](./img/img.jpg)
 ## 📋 Funcionalidades
 
 - Layout responsivo
@@ -15,6 +15,8 @@ Um projeto de interface utilizando flexbox com HTML, CSS.
 
 - HTML5
 - CSS3
+
+
 
 
 # 🎨 Estrutura do Projeto
